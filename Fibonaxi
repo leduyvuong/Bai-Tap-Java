@@ -1,0 +1,6 @@
+run:
+nhap n
+ 
+3
+Fibonaxi thu n 3
+BUILD SUCCESSFUL (total time: 1 second)
